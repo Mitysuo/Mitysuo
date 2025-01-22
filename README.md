@@ -1,4 +1,4 @@
-# Olá, Eu sou o Vinícius Mitsuo Furukava! 👋
+# Olá, eu sou o Vinícius Mitsuo Furukava! 👋
 
 Atualmente estudante de pós-graduação em Analytics e Inteligência Artificial pela FIA. E a programação tem se tornado uma parte essencial da minha vida, tanto no trabalho quanto em projetos pessoais.
 
