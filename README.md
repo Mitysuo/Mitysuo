@@ -4,10 +4,10 @@ Atualmente estudante de pós-graduação em Analytics e Inteligência Artificial
 
 <div align="center">
   <a href="https://github.com/Mitysuo/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Mitysuo&layout=compact&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=Mitysuo&layout=compact&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/Mitysuo/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitysuo&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&card_width=200" />
+    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mitysuo&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&card_width=200" />
   </a>
 </div>
 
